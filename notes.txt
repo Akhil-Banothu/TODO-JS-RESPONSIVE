@@ -1,0 +1,1 @@
+Add the filter = blur(5px) when popup card is displayed and remove the blur effect when close the popup card.
